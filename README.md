@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+	Designed a fully functional Amazon website with FULL E-Commerce Functionality. 
+  Demo Link: https://clone-e9374.firebaseapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
